@@ -1,5 +1,5 @@
 # 💫 About Me:
-Intrested in AI | ML | DL<br>i am currently working on XRAG-LLM<br>I am currently working MedMNIST<br>
+Intrested in AI | ML | DL
 
 
 ## 🌐 Socials:
